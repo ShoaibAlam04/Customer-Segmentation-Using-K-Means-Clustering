@@ -1,8 +1,5 @@
 # Customer Segmentation Using K-Means Clustering
 
-# Introduction
-
-This project involves the application of K-Means clustering to segment customers based on their annual income and spending score. The dataset used for this analysis is obtained from a CSV file named "Mall_Customers.csv."
 
 # Libraries Used
 
